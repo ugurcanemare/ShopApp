@@ -1,0 +1,117 @@
+﻿@model ProductListViewModel
+@{
+    List<ProductViewModel> products = Model.ProductsViewModel;
+}
+<div class="container-fluid mt-3">
+    <div class="row">
+        <h1 class="display-6 col-6">Ürün Listesi</h1>
+        <div class="col-6 d-flex row flex-row justify-content-between align-items-end">
+            <div class="col-9">
+                <form asp-area="Admin" asp-controller="Product" asp-action="Index" class="form-check"
+                    id="form-show-all">
+                    <div class="form-check form-switch row w-100">
+                        <div class="col-3">
+                            <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckChecked"
+                                asp-for="DeletedStatus" onchange="document.querySelector('#form-show-all').submit();">
+                        </div>
+                        <div class="col-9">
+                            <label class="form-check-label" for="flexSwitchCheckChecked">@(!Model.DeletedStatus ?
+                                "Tümünü Göster" : "Silinmemişleri Göster")</label>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="col-3 text-end">
+                <a class="btn btn-success btn-sm" asp-area="Admin" asp-controller="Product" asp-action="Create">Ürün
+                    Ekle</a>
+            </div>
+        </div>
+    </div>
+    <hr />
+    <table class="table table-bordered">
+        <thead class="text-bg-success">
+            <tr>
+                <th>Resim</th>
+                <th width="80">Id</th>
+                <th>Ürün Adı</th>
+                <th>Ürün Fiyatı</th>
+                <th>Ana Sayfa</th>
+                <th>Onay</th>
+                <th width="240">İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in products)
+            {
+                <tr>
+                    <td>
+                        <img src="~/images/@product.ImageUrl" width="50">
+                    </td>
+                    <td>@product.Id</td>
+                    <td>@product.Name</td>
+                    <td>@($"{product.Price:C0}")</td>
+                    <td>
+                        <form id="form-is-home_@product.Id" asp-area="Admin" asp-controller="Product"
+                        asp-action="UpdateIsHome" asp-route-id=@product.Id>
+                            <div class="form-check form-switch">
+                                <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault"
+                                asp-for=@product.IsHome
+                                    onchange="document.getElementById('form-is-home_@product.Id').submit();">
+                            </div>
+                        </form>
+                    </td>
+                    <td>
+                        <form id="form-is-approved_@product.Id" asp-area="Admin" asp-controller="Product"
+                        asp-action="UpdateIsApproved" asp-route-id=@product.Id>
+                            <div class="form-check form-switch">
+                                <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault"
+                                asp-for=@product.IsApproved
+                                    onchange="document.getElementById('form-is-approved_@product.Id').submit();">
+                            </div>
+                        </form>
+                    </td>
+                    <td>
+                        <a class="btn btn-warning btn-sm" asp-area="Admin" asp-controller="Product" asp-action="Edit"
+                        asp-route-id=@product.Id>Düzenle</a>
+                        <a class="btn btn-outline-danger btn-sm" asp-area="Admin" asp-controller="Product"
+                        asp-action="Remove" asp-route-id=@product.Id>Sil</a>
+                        @if (product.IsDeleted)
+                        {
+                            <button class="btn btn-danger btn-sm" type="button" data-bs-toggle="modal"
+                                data-bs-target="#approvedDelete_@product.Id">
+                                Kalıcı Olarak Sil
+                            </button>
+
+                            @*Silme Onay Modal*@
+                            <div class="modal fade" id="approvedDelete_@product.Id" tabindex="-1"
+                                aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h1 class="modal-title fs-5" id="exampleModalLabel">Silme Onay!</h1>
+                                            <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                                aria-label="Close"></button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <p><span class="text-danger">@product.Name</span> adlı ürün, kalıcı olarak
+                                                silinecektir.</p>
+                                            <p class="text-bg-danger p-2">Bu işlem geri alınamaz!</p>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-warning"
+                                                data-bs-dismiss="modal">Vazgeç</button>
+                                            <a class="btn btn-danger" asp-area="Admin" asp-controller="Product"
+                                        asp-action="Delete" asp-route-id=@product.Id>Kalıcı Olarak Sil</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@*Scope to this ==> VS Code için scope eklentisi*@

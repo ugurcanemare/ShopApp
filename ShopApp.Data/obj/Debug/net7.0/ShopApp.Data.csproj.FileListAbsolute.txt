@@ -1,0 +1,17 @@
+C:\Users\EMARE\OneDrive\Masaüstü\Erp7\Erp7-Derslerim\Week-09\16-03-2023\ShopApp\ShopApp.Data\bin\Debug\net7.0\ShopApp.Data.deps.json
+C:\Users\EMARE\OneDrive\Masaüstü\Erp7\Erp7-Derslerim\Week-09\16-03-2023\ShopApp\ShopApp.Data\bin\Debug\net7.0\ShopApp.Data.runtimeconfig.json
+C:\Users\EMARE\OneDrive\Masaüstü\Erp7\Erp7-Derslerim\Week-09\16-03-2023\ShopApp\ShopApp.Data\bin\Debug\net7.0\ShopApp.Data.dll
+C:\Users\EMARE\OneDrive\Masaüstü\Erp7\Erp7-Derslerim\Week-09\16-03-2023\ShopApp\ShopApp.Data\bin\Debug\net7.0\ShopApp.Data.pdb
+C:\Users\EMARE\OneDrive\Masaüstü\Erp7\Erp7-Derslerim\Week-09\16-03-2023\ShopApp\ShopApp.Data\bin\Debug\net7.0\ShopApp.Entity.dll
+C:\Users\EMARE\OneDrive\Masaüstü\Erp7\Erp7-Derslerim\Week-09\16-03-2023\ShopApp\ShopApp.Data\bin\Debug\net7.0\ShopApp.Entity.pdb
+C:\Users\EMARE\OneDrive\Masaüstü\Erp7\Erp7-Derslerim\Week-09\16-03-2023\ShopApp\ShopApp.Data\obj\Debug\net7.0\ShopApp.Data.csproj.AssemblyReference.cache
+C:\Users\EMARE\OneDrive\Masaüstü\Erp7\Erp7-Derslerim\Week-09\16-03-2023\ShopApp\ShopApp.Data\obj\Debug\net7.0\ShopApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMARE\OneDrive\Masaüstü\Erp7\Erp7-Derslerim\Week-09\16-03-2023\ShopApp\ShopApp.Data\obj\Debug\net7.0\ShopApp.Data.AssemblyInfoInputs.cache
+C:\Users\EMARE\OneDrive\Masaüstü\Erp7\Erp7-Derslerim\Week-09\16-03-2023\ShopApp\ShopApp.Data\obj\Debug\net7.0\ShopApp.Data.AssemblyInfo.cs
+C:\Users\EMARE\OneDrive\Masaüstü\Erp7\Erp7-Derslerim\Week-09\16-03-2023\ShopApp\ShopApp.Data\obj\Debug\net7.0\ShopApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\EMARE\OneDrive\Masaüstü\Erp7\Erp7-Derslerim\Week-09\16-03-2023\ShopApp\ShopApp.Data\obj\Debug\net7.0\ShopApp.Data.csproj.CopyComplete
+C:\Users\EMARE\OneDrive\Masaüstü\Erp7\Erp7-Derslerim\Week-09\16-03-2023\ShopApp\ShopApp.Data\obj\Debug\net7.0\ShopApp.Data.dll
+C:\Users\EMARE\OneDrive\Masaüstü\Erp7\Erp7-Derslerim\Week-09\16-03-2023\ShopApp\ShopApp.Data\obj\Debug\net7.0\refint\ShopApp.Data.dll
+C:\Users\EMARE\OneDrive\Masaüstü\Erp7\Erp7-Derslerim\Week-09\16-03-2023\ShopApp\ShopApp.Data\obj\Debug\net7.0\ShopApp.Data.pdb
+C:\Users\EMARE\OneDrive\Masaüstü\Erp7\Erp7-Derslerim\Week-09\16-03-2023\ShopApp\ShopApp.Data\obj\Debug\net7.0\ShopApp.Data.genruntimeconfig.cache
+C:\Users\EMARE\OneDrive\Masaüstü\Erp7\Erp7-Derslerim\Week-09\16-03-2023\ShopApp\ShopApp.Data\obj\Debug\net7.0\ref\ShopApp.Data.dll

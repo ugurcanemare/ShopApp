@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ShopApp.WebUI
+build_property.RootNamespace = ShopApp.WebUI
+build_property.ProjectDir = C:\Users\EMARE\OneDrive\Masaüstü\Erp7\Erp7-Derslerim\Week-09\16-03-2023\ShopApp\ShopApp.WebUI\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\EMARE\OneDrive\Masaüstü\Erp7\Erp7-Derslerim\Week-09\16-03-2023\ShopApp\ShopApp.WebUI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Areas/Admin/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Areas/Admin/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Areas/Admin/Views/Category/Remove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcUmVtb3ZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Areas/Admin/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Areas/Admin/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Areas/Admin/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Areas/Admin/Views/Shared/_AdminHeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkhlYWRlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Areas/Admin/Views/Shared/_AdminMenuPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbk1lbnVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Views/Product/ProductDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Views/Shared/Components/Categories/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcmllc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Views/Shared/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Views/Shared/_HeaderMenuPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJNZW51UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Views/Shared/_HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Views/Shared/_NoRecord.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob1JlY29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Views/Shared/_ProductPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMARE/OneDrive/Masaüstü/Erp7/Erp7-Derslerim/Week-09/16-03-2023/ShopApp/ShopApp.WebUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-c3hhvtg2fg

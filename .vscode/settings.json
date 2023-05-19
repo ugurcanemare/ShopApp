@@ -1,0 +1,15 @@
+{
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": false,
+        "**/.hg": false,
+        "**/CVS": false,
+        "**/.DS_Store": false,
+        "**/Thumbs.db": false,
+        "ShopApp.WebUI/Areas/[!A]*/**": true,
+        "ShopApp.WebUI/Areas/A[!d]*/**": true,
+        "ShopApp.WebUI/Areas/Ad[!m]*/**": true,
+        "ShopApp.WebUI/Areas/Adm[!i]*/**": true,
+        "ShopApp.WebUI/Areas/Admi[!n]*/**": true
+    }
+}

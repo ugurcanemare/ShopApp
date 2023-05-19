@@ -1,0 +1,20 @@
+﻿@model CategoryViewModel
+<h1 class="display-6 mt-2">Kategoriyi silmek istediğinizden emin misiniz?</h1>
+<hr />
+
+<form asp-area="Admin"
+      asp-controller="Category"
+      asp-action="Remove"
+      method="post">
+    <div class="mb-3">
+        <label class="form-label" asp-for="Name"></label>
+        <input type="text" class="form-control" asp-for="Name" disabled>
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="Description"></label>
+        <input type="text" class="form-control disable" asp-for="Description" disabled>
+    </div>
+    <div class="mt-3">
+        <button type="submit" class="btn btn-danger">Sil</button>
+    </div>
+</form>

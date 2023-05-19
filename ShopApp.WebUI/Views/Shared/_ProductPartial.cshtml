@@ -1,0 +1,16 @@
+﻿@model ProductViewModel
+
+<div class="card">
+    <img src="~/images/@Model.ImageUrl" class="card-img-top p-img" alt="...">
+    <div class="card-body text-center">
+        <h6 class="card-title fs-5 text-danger">@Model.Name</h6>
+        <p class="card-text">@Model.Description</p>
+        <p class="text-success">@Model.Price ₺</p>
+        <a href="#" class="btn btn-primary btn-sm">Satın al</a>
+        <a class="btn btn-success btn-sm"
+            asp-controller="Product"
+            asp-action="ProductDetails"
+            asp-route-producturl=@Model.Url
+        >Detay</a>
+    </div>
+</div>

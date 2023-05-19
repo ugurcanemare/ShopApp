@@ -1,0 +1,76 @@
+﻿@model ProductAddViewModel
+<h1 class="display-6 mt-2">Yeni Ürün</h1>
+<hr />
+
+<form asp-area="Admin"
+      asp-controller="Product"
+      asp-action="Create"
+      method="post" enctype="multipart/form-data">
+    @*<div asp-validation-summary="All" class="text-danger"></div>*@
+    <div class="row">
+        <div class="col-8">
+            <div class="mb-3">
+                <label class="form-label" asp-for="Name"></label>
+                <input type="text" class="form-control" asp-for="Name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label class="form-label" asp-for="Description"></label>
+                <input type="text" class="form-control" asp-for="Description">
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="row">
+            <div class="mb-3 col-3">
+                <label class="form-label" asp-for="Price"></label>
+                <input class="form-control" asp-for="Price">
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>  
+             <div class="mb-3 col-9">
+                <label class="form-label" >Resim Yükle</label>
+                <input type="file" class="form-control" asp-for="ImageFile" accept="image.png, image.jpeg">
+                <img id="img-viewer" class="mt-3" src="~/images/NoPicture.png" width="100">
+                <span asp-validation-for="ImageFile" class="text-danger"></span>
+            </div> 
+            </div>
+            <button type="submit" class="btn btn-primary">Kaydet</button>
+        </div>
+        <div class="col-4">
+            <h3 class="display-6 fs-6 fw-normal text-danger">Kategoriler</h3>
+            @foreach (var category in Model.Categories)
+            {
+                <div class="mb-1 form-check">
+                    <input type="checkbox" class="form-check-input" name="SelectedCategories" value="@category.Id"
+                       @if(Model.SelectedCategories!=null){
+                            @(Model.SelectedCategories.Any(sc=>sc==category.Id) ? "checked" : "")
+                       }>
+                    <label class="form-check-label">@category.Name</label>
+                </div>
+            }
+            <span asp-validation-for="SelectedCategories" class="text-danger"></span>
+            <hr>
+            <h3 class="display-6 fs-6 fw-normal text-danger">Diğer Seçenekler</h3>
+            <div class="mb-1 form-check" id="is-home">
+                <input type="checkbox" class="form-check-input" asp-for="IsHome">
+                <label class="form-check-label" asp-for="IsHome"></label>
+            </div>
+            <div class="mb-1 form-check">
+                <input type="checkbox" class="form-check-input" asp-for="IsApproved">
+                <label class="form-check-label" asp-for="IsApproved"></label>
+            </div>
+        </div>
+    </div>
+
+
+</form>
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+    <script>
+        let imgViewer = document.querySelector("#img-viewer");
+        let imgFile = document.querySelector("#ImageFile");
+
+        imgFile.addEventListener("change", function (e) {
+            let files = e.target.files
+            imgViewer.setAttribute("src",window.URL.createObjectURL(files[0]));
+        });
+    </script>
+}

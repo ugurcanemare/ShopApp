@@ -1,0 +1,281 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ShopApp.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShopApp.WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\10.png",
+      "PackagePath": "staticwebassets\\images\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\11.png",
+      "PackagePath": "staticwebassets\\images\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\12.png",
+      "PackagePath": "staticwebassets\\images\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\13.png",
+      "PackagePath": "staticwebassets\\images\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\133f5611-ea32-4822-96aa-d0a0e29e1275.png",
+      "PackagePath": "staticwebassets\\images\\133f5611-ea32-4822-96aa-d0a0e29e1275.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\14.png",
+      "PackagePath": "staticwebassets\\images\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\15.png",
+      "PackagePath": "staticwebassets\\images\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\16.png",
+      "PackagePath": "staticwebassets\\images\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\17.png",
+      "PackagePath": "staticwebassets\\images\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\18.png",
+      "PackagePath": "staticwebassets\\images\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\19.png",
+      "PackagePath": "staticwebassets\\images\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\20.png",
+      "PackagePath": "staticwebassets\\images\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\21.png",
+      "PackagePath": "staticwebassets\\images\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\22.png",
+      "PackagePath": "staticwebassets\\images\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\4.png",
+      "PackagePath": "staticwebassets\\images\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\5.png",
+      "PackagePath": "staticwebassets\\images\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\6.png",
+      "PackagePath": "staticwebassets\\images\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\7.png",
+      "PackagePath": "staticwebassets\\images\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\8.png",
+      "PackagePath": "staticwebassets\\images\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\892150b5-192f-4704-84eb-c3e94926f9d1.png",
+      "PackagePath": "staticwebassets\\images\\892150b5-192f-4704-84eb-c3e94926f9d1.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\9.png",
+      "PackagePath": "staticwebassets\\images\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\NoPicture.png",
+      "PackagePath": "staticwebassets\\images\\NoPicture.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\images\\f611451a-02a6-4069-8097-3c80de925895.png",
+      "PackagePath": "staticwebassets\\images\\f611451a-02a6-4069-8097-3c80de925895.png"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ShopApp.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ShopApp.WebUI.props",
+      "PackagePath": "build\\ShopApp.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopApp.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\ShopApp.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ShopApp.WebUI.props",
+      "PackagePath": "buildTransitive\\ShopApp.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

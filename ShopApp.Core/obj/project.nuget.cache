@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hLkNltREAUfduxH/twj/5ccSZKj/gpxYAJl3a14zSeG7F2BGkuLGdn4m16X8Rutfh7iNW9jv8Wmc/1qkng3E7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EMARE\\OneDrive\\Masaüstü\\Erp7\\Erp7-Derslerim\\Week-09\\16-03-2023\\ShopApp\\ShopApp.Core\\ShopApp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EMARE\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\EMARE\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\EMARE\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
